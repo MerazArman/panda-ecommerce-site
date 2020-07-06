@@ -1,0 +1,30 @@
+.container
+{
+    margin-bottom: 60px;
+}
+
+
+                            /* =========carousel style css strat now=========*/
+
+.color-bg
+{
+    background-color: #fceae8;
+}
+
+.carousel-item 
+{
+    padding: 5px 20px 5px 30px;
+}
+.price
+{
+    color: #FF136F;
+}
+.button-style
+{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    color: white;
+    cursor: pointer;
+}
