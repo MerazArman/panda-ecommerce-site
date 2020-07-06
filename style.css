@@ -1,12 +1,15 @@
+                         
+                                    /* =========carousel style css strat now=========*/
+
 .container
 {
     margin-bottom: 60px;
 }
 
 
-                            /* =========carousel style css strat now=========*/
+                            
 
-.color-bg
+.cerousel-bg
 {
     background-color: #fceae8;
 }
@@ -25,6 +28,87 @@
     border-radius: 8px;
     border: none;
     padding: 9px 25px;
+    margin-top: 20px;
     color: white;
     cursor: pointer;
+}
+.button-style:hover
+{
+   background-image: linear-gradient(40deg, DarkSlateGray,black);
+}
+
+                                     
+
+                                                /* ========== catagoriswe style ======= */
+
+
+
+
+.catagoris h1
+{
+     color: white;
+}
+
+.catagoris img
+{
+    width: 40%;
+
+}
+
+
+.cat-1, .cat-2, .cat-3
+{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat-1
+{
+    background-image: linear-gradient( 150deg, goldenrod,gold);
+    
+}
+
+.cat-2
+{
+    background-image: linear-gradient( 90deg, #FF136F, hotpink);
+}
+
+.cat-3
+{
+   background-color: rgb(69, 43, 180);
+}
+
+
+
+              /*===================shoes style strat now ==============*/
+
+.card
+{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+}
+
+.card-footer
+{
+    border-top: none;
+    background-color: white;
+}
+
+/*    */
+
+#Contact
+{
+    background-color: #fceae8;
+    width: ;
+    height: 300px;
+}
+#Contact h6
+{
+    color: gray;
+}
+
+footer
+{
+    text-align: center;
+    color: gray;
 }
